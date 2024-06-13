@@ -18,10 +18,10 @@ The dataset consists of five tables:
    - Provides information about the educational qualifications of the employees.
 
 4. **Rating Level**
-   - Details the rating levels assigned to employees based on various metrics.
+   - Details the rating levels assigned to the rating ID.
 
 5. **Satisfaction Level**
-   - Captures the satisfaction levels of employees.
+   - Captures the satisfaction levels assigned to the satifaction ID.
 
 ## Analysis
 
