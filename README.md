@@ -44,6 +44,17 @@ Some of the key visualizations created during the analysis include:
 - Employee satisfaction levels
 - Attrition rates and factors influencing attrition
 
+Here are some sample images of the visualizations:
+
+![Visualization 1](https://drive.google.com/uc?id=15e7nZk2xn3fmoUU7bjwlB94s7lJrwhu6)
+
+![Visualization 2](https://drive.google.com/uc?id=1_gknsExv_o8ldKQu1ZfWX2PSKUcAN2_T)
+
+![Visualization 3](https://drive.google.com/uc?id=1FzWm7p-osLb7a5sKcM-WiPPhvqSadyPh)
+
+![Visualization 4](https://drive.google.com/uc?id=1b61vTPTi6cpnN56MV_bMCQ-93xLKShyP)
+
+
 ## Conclusion
 
 By the end of this case study, a comprehensive understanding of how to use Power BI to analyze HR data is achieved. Meaningful visualizations and actionable insights are created to help organizations like Atlas Labs retain more employees.
